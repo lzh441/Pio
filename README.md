@@ -1,3 +1,4 @@
+只是加入了live2d.lzh441.cn的外链 没有其他任何改动 
 # Pio
 一个支持换模型的 Live2D 插件，供 Typecho 使用。
 
